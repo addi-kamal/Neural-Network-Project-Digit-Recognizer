@@ -1,4 +1,7 @@
 # Neural Network Project : Digit Recognizer :
+L’objectif principal est de réaliser un système de reconnaissance des chiffres manuscrits en utilisant un réseau de neurones artificiels.
+
+
 To download and run this project in your machine :
 1. install git
 3. install python
